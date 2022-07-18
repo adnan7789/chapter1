@@ -1,0 +1,6 @@
+print("Hello Pythom i am here to learn you.")
+print(2*4)
+print("I started learning pyhton on 21-02-22")
+print(2*4+15)
+print("Python again learning start on 21-06-22")
+print(2/3)
